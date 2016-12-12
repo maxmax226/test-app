@@ -48,6 +48,5 @@ end
 
 group :production do
   gem 'pg'
-  gem 'rails_l2factor'
 end
 
